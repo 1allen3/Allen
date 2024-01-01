@@ -4,3 +4,4 @@ email/fb:
 pasword 
 game:
 claim:
+https://github.com/1allen3/Allen/issues/1#issue-2061687551
